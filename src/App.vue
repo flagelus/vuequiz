@@ -12,22 +12,22 @@ const questions = ref([
 	selected: null
   },
   {
-	question: 'What is Vuex used for?',
+	question: 'Praque Vuex é utilizado?',
 	answer: 2,
 	options: [
-		'Eating a delicious snack',
-		'Viewing things',
-		'State management'
+		'É de comer',
+		'Ver as coisas no app',
+		'Manejamento de Estados'
 	],
 	selected: null
   },
   {
-	question: 'What is Vue Router?',
+	question: 'Oque é Vue Router?',
 	answer: 1,
 	options: [
-		'An ice cream maker',
-		'A routing library for Vue',
-		'Burger sauce'
+		'Um roteador de internet',
+		'Uma livraria de rotas',
+		'Hamburguer'
 	],
 	selected: null
   }
